@@ -1,7 +1,7 @@
 import logging
 import time
 
-print("Data Navigator Evening process")
+print("Data Navigator Evening processes")
 
 class DataNavigator:
     def __init__(self, age, name = "Krishnan"):
